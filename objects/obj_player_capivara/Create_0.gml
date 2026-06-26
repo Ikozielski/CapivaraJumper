@@ -2,7 +2,7 @@
 
 estadoCaindo = function (){
     
-    show_message("oi");
+    show_debug_message("oi");
 }
 
 
