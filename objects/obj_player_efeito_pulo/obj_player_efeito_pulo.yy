@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_plataforma_tronco",
+  "%Name":"obj_player_efeito_pulo",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_plataforma_tronco",
+  "name":"obj_player_efeito_pulo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_plataforma_tronco",
-    "path":"sprites/spr_plataforma_tronco/spr_plataforma_tronco.yy",
+    "name":"spr_player_pulo",
+    "path":"sprites/spr_player_pulo/spr_player_pulo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,0 +1,1 @@
+velocidadeHorizontal = 1;

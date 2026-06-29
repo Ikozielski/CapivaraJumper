@@ -1,8 +1,8 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_plataforma_tronco",
-  "bboxMode":0,
-  "bbox_bottom":14,
+  "bboxMode":2,
+  "bbox_bottom":10,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,

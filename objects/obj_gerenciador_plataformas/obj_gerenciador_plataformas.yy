@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_plataforma_tronco",
+  "%Name":"obj_gerenciador_plataformas",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_plataforma_tronco",
+  "name":"obj_gerenciador_plataformas",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_plataforma_tronco",
-    "path":"sprites/spr_plataforma_tronco/spr_plataforma_tronco.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
