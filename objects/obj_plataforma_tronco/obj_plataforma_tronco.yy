@@ -9,8 +9,8 @@
   "name":"obj_plataforma_tronco",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plataformas",
+    "path":"folders/Objects/Plataformas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

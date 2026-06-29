@@ -11,8 +11,8 @@
   "name":"obj_placa_voltar",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Placas",
+    "path":"folders/Objects/Placas.yy",
   },
   "parentObjectId":null,
   "persistent":false,

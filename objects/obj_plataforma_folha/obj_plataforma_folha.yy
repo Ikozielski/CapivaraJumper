@@ -9,8 +9,8 @@
   "name":"obj_plataforma_folha",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plataformas",
+    "path":"folders/Objects/Plataformas.yy",
   },
   "parentObjectId":{
     "name":"obj_plataforma_tronco",

@@ -10,8 +10,8 @@
   "name":"obj_gerenciador_plataformas",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Gerenciadores",
+    "path":"folders/Objects/Gerenciadores.yy",
   },
   "parentObjectId":null,
   "persistent":false,
